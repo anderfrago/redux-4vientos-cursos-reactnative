@@ -1,0 +1,12 @@
+{
+  "name": "rn_redux_4cursos",
+  "displayName": "rn_redux_4cursos",
+  "expo": {
+    "name": "rn_redux_4cursos",
+    "slug": "rn_redux_4cursos",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
